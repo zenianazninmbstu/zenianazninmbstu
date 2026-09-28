@@ -84,3 +84,27 @@ building meaningful projects, and improving every day.
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zenianazninmbstu&style=flat-square)
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 Dev Stack Builder
+A responsive web application built with modern frontend technologies.
+
+**Tech:** React • TypeScript • Tailwind CSS
+
+### 🏏 BPL Dream 11
+A cricket team-building web application with interactive player selection.
+
+**Tech:** React • JavaScript • Tailwind CSS
+
+### 📱 My Mobile App
+A responsive mobile-focused web application built with modern frontend technologies.
+
+**Tech:** React • TypeScript • Tailwind CSS
+
+### 💪 Fit Log
+A fitness tracking web application built with Next.js.
+
+**Tech:** Next.js • React • TypeScript
