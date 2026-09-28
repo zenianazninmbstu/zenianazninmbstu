@@ -51,13 +51,11 @@ and learning modern frontend technologies.
 - Modern Frontend Development
 
 ---
+## 🌐 Connect With Me
 
-## 📫 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/zenianazninmbstu)
 
-**Email:** zenianaznin.mbstu@gmail.com
-
-**GitHub:** [zenianazninmbstu](https://github.com/zenianazninmbstu)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:zenianaznin.mbstu@gmail.com)
 ---
 
 ## 🎯 My Goal
