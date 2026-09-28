@@ -64,3 +64,11 @@ and learning modern frontend technologies.
 
 To become a skilled Web Developer by continuously learning,
 building meaningful projects, and improving every day.
+
+---
+
+## 📊 GitHub Stats
+
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zenianazninmbstu&show_icons=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zenianazninmbstu&layout=compact&theme=default) |
