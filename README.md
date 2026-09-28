@@ -4,7 +4,7 @@
 </p>
 
 
-# Hi 👋, I'm Zenia Naznin
+<h1 align="center">Hi 👋, I'm Zenia Naznin</h1>
 
 ### Front-End Developer in Progress
 
