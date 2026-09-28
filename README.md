@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="./profile-banner.png" alt="Zenia Naznin Profile Banner" width="100%">
+</p>
+
+
 # Hi 👋, I'm Zenia Naznin
 
 ### Front-End Developer in Progress
